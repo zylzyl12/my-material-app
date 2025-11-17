@@ -1,0 +1,28 @@
+{
+  "name": "工艺处理甩干登记",
+  "short_name": "甩干登记",
+  "description": "用于管理甩干进出站记录的移动应用",
+  "start_url": "./material-management.html",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#2575fc",
+  "orientation": "portrait",
+  "scope": "./",
+  "lang": "zh-CN",
+  "version": "2.0",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"]
+}
